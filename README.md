@@ -4,4 +4,4 @@
 
 - In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 subgrids that compose the grid (also called "boxes", "blocks", or "regions") contains all of the digits from 1 to 9.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/41HmOX-wfvL.png">
+<img align="center" src="https://images-na.ssl-images-amazon.com/images/I/41HmOX-wfvL.png">
